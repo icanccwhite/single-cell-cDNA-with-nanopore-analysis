@@ -2,7 +2,7 @@
 
 echo "barcode path"
 `pwd`
-echo "sh bashfile lung 1"
+echo "e.g. sh bashfile lung 1"
 
 organ=$1
 nbase=$2
