@@ -1,7 +1,8 @@
 #!/bin/bash
 
-echo "path"
+echo "barcode path"
 `pwd`
+echo "sh bashfile lung 1"
 
 organ=$1
 nbase=$2
